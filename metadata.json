@@ -1,0 +1,7 @@
+{
+  "name": "ArdhiChain Kenya",
+  "description": "A blockchain-powered land registry and transfer system for Kenya, featuring AI-driven court case detection, digital title deeds, and immutable ownership verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
